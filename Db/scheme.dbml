@@ -1,0 +1,10 @@
+table ToDos {
+  id int
+  text varchar(200)
+}
+
+table Music {
+  id int
+  name varchar(200)
+  yt_link varchar(100)
+}
